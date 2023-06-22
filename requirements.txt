@@ -1,0 +1,7 @@
+aiofiles
+dnspython
+motor
+pyrogram==1.4.0
+Pyromod==1.5
+TgCrypto
+requests
