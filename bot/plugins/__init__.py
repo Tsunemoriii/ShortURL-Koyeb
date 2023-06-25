@@ -31,9 +31,9 @@ help_text_3 = "**I Am Developed By My Creator @NORMAN_2_2_1_9_4**\n\n**> Contact
 start_text_3 = """
 **Hello!** {mention}
 
-**I Am Link Management Bot For @Otaku_Hanimes**
+**I Am Link Management Bot For @HAnime_Club**
 
-**> I Will Give You Access To All The Link From @Otaku_Hanimes.**
+**> I Will Give You Access To All The Link From @HAnime_Club.**
 **> You Must Join The Channel To Access The Links.**
 """
 
