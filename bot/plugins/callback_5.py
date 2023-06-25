@@ -92,7 +92,7 @@ async def retry_cb(_, m):
     }
     _list = m.data.split("#")
     _url = _list[1]
-    channel = chan[bot_id - 1]
+    channel = chan[bot_id]
     ch_info = await cli.get_chat(channel)
     ch_title = ch_info.title
     ch_id = ch_info.id
