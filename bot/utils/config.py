@@ -25,7 +25,7 @@ MAIN_CHANNEL_5 = os.getenv("MAIN_CHANNEL_5", "Channel_No_Five")
 # shortener api keys
 SHORTENER_API = os.environ.get("SHORTENER_API", "hDDSUg9SwwgX5397ELtXvfOeU6T2")
 SHORTENER_API_2 = os.environ.get("SHORTENER_API_2", "dcddbca543e209dd3f79cfbae6b1dd52cb3ec595")
-SHORTENER_API_3 = os.environ.get("SHORTENER_API_3", "fdd25eac5b3e956cf67394128da6e6f28b578540")
+SHORTENER_API_3 = os.environ.get("SHORTENER_API_3", "dcddbca543e209dd3f79cfbae6b1dd52cb3ec595")
 SHORTENER_API_4 = os.environ.get("SHORTENER_API_4", "dcddbca543e209dd3f79cfbae6b1dd52cb3ec595")
 SHORTENER_API_5 = os.environ.get("SHORTENER_API_5", "23eb5dd17ac140282cad623f70635f2ba0820f4d")
 
